@@ -1,1 +1,1 @@
-![Demo Animation](asset/demolight.gif)
+![Demo Animation](assest/demolight.gif)
