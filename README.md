@@ -1,1 +1,2 @@
-![Demo Animation](assest/demolight.gif) | ![Demo Animation](assest/demodark.gif)
+![Demo Animation](assest/demolight.gif)
+![Demo Animation](assest/demodark.gif)
