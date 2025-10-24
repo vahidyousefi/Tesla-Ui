@@ -1,0 +1,41 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Neumorphism" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/dark_back</item>
+        <item name="colorPrimaryVariant">@color/dark_back</item>
+        <item name="colorOnPrimary">@color/text_white</item>
+        <!--  Secondary brand color.  -->
+        <item name="colorSecondary">@color/blue_light</item>
+        <item name="colorSecondaryVariant">@color/blue_light</item>
+        <item name="colorOnSecondary">@color/text_gray</item>
+        <!--  Status bar color.  -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="fontFamily">@font/gilroy</item>
+
+        <item name="colorTertiary">@color/dark_start_shadow</item>
+
+
+        <item name="neumorph_shadowColorDark">@color/dark_start_shadow</item>
+        <item name="neumorph_shadowColorLight">@color/dark_end_shadow</item>
+
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Neumorphism" parent="Base.Theme.Neumorphism" />
+
+    <style name="NeumorphismImage">
+        <item name="neumorph_cornerFamily">oval</item>
+        <item name="neumorph_cornerSize">36dp</item>
+    </style>
+
+    <style name="NeumorphismCard">
+        <item name="neumorph_cornerFamily">rounded</item>
+        <item name="neumorph_cornerSize">16dp</item>
+    </style>
+
+    <style name="neuButton">
+        <item name="neumorph_cornerFamily">rounded</item>
+        <item name="neumorph_cornerSize">8dp</item>
+    </style>
+</resources>

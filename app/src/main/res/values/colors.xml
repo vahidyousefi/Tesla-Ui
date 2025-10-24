@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+
+    <!-- dark mode -->
+    <color name="dark_back">#292929</color>
+    <color name="dark_start_shadow">#101010</color>
+    <color name="dark_end_shadow">#424242</color>
+
+    <!-- light mode -->
+    <color name="light_back">#e0e0e0</color>
+    <color name="light_start_shadow">#bebebe</color>
+    <color name="light_end_shadow">#ffffff</color>
+
+    <color name="text_gray">#7F8489</color>
+    <color name="text_white">#FDFDFD</color>
+
+    <color name="icon_default_color">#7F8489</color>
+    <color name="blue_light">#11A8FD</color>
+</resources>
